@@ -1,0 +1,11 @@
+PyPDF2
+pdfplumber
+python-docx
+sentence-transformers
+faiss-cpu
+transformers
+nltk
+streamlit
+torch
+numpy
+faiss-cpu
